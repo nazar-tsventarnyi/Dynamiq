@@ -26,6 +26,5 @@ The project demonstrates clean architecture, secure payments, and modern UI for 
 
 ## 🏛 Architecture
 
-Built using **Domain-Driven Design + Clean Architecture + CQRS**.  
-Core business logic is isolated in domain layer, with clear separation of concerns.  
+Built using **Clean Architecture + CQRS**.
 Integration tests run in isolated SQL containers with Testcontainers.
